@@ -32,7 +32,7 @@ I work across the full analytics cycle: cleaning messy datasets, writing complex
 
 | Project | Tools | Description |
 |---|---|---|
-| [Loan Performance Analysis](#) | Excel, Power BI, SQL | Diagnosed a 13.8% default rate across 500 loans for a fictional retail bank; uncovered high-risk customer segments and regional gaps |
+| [Loan Performance Analysis](https://github.com/MuizzaAdetoro/Loan-Performance-Analysis) | Excel, Power BI, SQL | Diagnosed a 13.8% default rate across 500 loans for a fictional retail bank; uncovered high-risk customer segments and regional gaps |
 
 
 ---

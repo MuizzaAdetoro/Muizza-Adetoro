@@ -1,4 +1,3 @@
-# Muizza-O-Adetoro
 # Hi, I'm Muizza-O-Adetoro 👋
 
 **Data Analyst | Excel · SQL · Power BI | Turning raw data into actionable business decisions**

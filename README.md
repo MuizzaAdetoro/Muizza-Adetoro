@@ -44,7 +44,7 @@ I work across the full analytics cycle: cleaning messy datasets, writing complex
 - 👀 Open to Mid-level Data Analyst roles and opportunities
 - 🤝 Connect with me on [LinkedIn](https://www.linkedin.com/in/muizza-o-adetoro/)
 - 📧 Reach me at muizzaadetoro@gmail.com
--     Portfolio: 
+-     Portfolio: https://muizzaadetoro.github.io/ 
 
 ---
 
